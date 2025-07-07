@@ -26,8 +26,7 @@ personality-predictor/
 ├── notebooks/
 │   └── training_pipeline.ipynb   # EDA + training notebook
 ├── requirements.txt           # Python dependencies
-├── README.md                  # Project documentation
-└── .gitignore                 # Files to exclude from Git
+└── README.md                  # Project documentation
 ```
 
 ---
